@@ -11,4 +11,4 @@ Preprocessed and balanced the dataset to improve model robustness
 
 Developed a custom training loop with validation support
 
-Achieved strong performance on detecting spam vs. ham (you can insert your accuracy/F1-score here if available)
+Achieved strong performance on detecting spam vs. ham 
